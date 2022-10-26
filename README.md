@@ -98,7 +98,7 @@
 
 Git и GitHub
 1. Зарегистрироваться на [GitHub](https://github.com)
-2. Установить [Git](https://git-scm.com/downloads)
+2. Установить [Git](https://git-scm.com/downloads) (рекомендуется)
 
 - Windows - [скачать](https://git-scm.com/download/win), выбрав версию (32/64-разрядная система), установить как обычную программу (не менять никакие настройки при установке)  
 - MacOS -  
